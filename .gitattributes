@@ -1,2 +1,4 @@
-*.typescript linguist-detectable=false
+*.html linguist-detectable=false
 *.java linguist-detectable=true
+*.typescript linguist-detectable=false
+
