@@ -1,5 +1,5 @@
 *.java linguist-detectable=true
-*.typescript linguist-detectable=false
 *.html linguist-detectable=false
 *.html inguist-detectable=false
+*.typescript linguist-detectable=false
 *.typescript inguist-detectable=false
