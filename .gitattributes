@@ -1,5 +1,5 @@
-*.html linguist-detectable=false
-*.typescript linguist-detectable=false
+
 * linguist-vendored
 *.html linguist-vendored=false
+*.java linguist-vendored=true
 
