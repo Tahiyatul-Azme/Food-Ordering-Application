@@ -1,4 +1,4 @@
-*.typescript linguist-detectable=false
-*.html linguist-detectable=false
+*.typescript linguist-detectable=true
+*.html linguist-detectable=true
 *.html inguist-detectable=false
 *.typescript inguist-detectable=false
